@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "Angular-Service-Worker/index.html",
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "Angular-Service-Worker/favicon.ico",
-        "Angular-Service-Worker/index.html",
-        "Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js",
-        "Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js",
-        "Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css"
+        "/favicon.ico",
+        "/index.html",
+        "/inline.99d03be633a72e83c766.bundle.js",
+        "/main.5898d564ea81b4ac123c.bundle.js",
+        "/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js": "c298038b46e48392ac051cbedd51aa54bec42b56",
-    "Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js": "3e791f544c72c261aabdffabdb03d0c7f36bd4cf",
-    "Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
-    "Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
-    "Angular-Service-Worker/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "Angular-Service-Worker/index.html": "f5e5e618a70c161e620a265e20358cde3e44841e"
+    "/inline.99d03be633a72e83c766.bundle.js": "c298038b46e48392ac051cbedd51aa54bec42b56",
+    "/main.5898d564ea81b4ac123c.bundle.js": "3e791f544c72c261aabdffabdb03d0c7f36bd4cf",
+    "/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "9eb8b01d74019705f96c983d75ca3032d24c855e"
   }
 }
