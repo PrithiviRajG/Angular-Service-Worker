@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://github.com/PrithiviRajG/Angular-Service-Worker/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/favicon.ico",
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/index.html",
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js",
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js",
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "https://github.com/PrithiviRajG/Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js": "c298038b46e48392ac051cbedd51aa54bec42b56",
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js": "3e791f544c72c261aabdffabdb03d0c7f36bd4cf",
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://github.com/PrithiviRajG/Angular-Service-Worker/index.html": "09afd1cd59ff0962cc37fc22228ea57ab9d1b397"
+  }
+}
