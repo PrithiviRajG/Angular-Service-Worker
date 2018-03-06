@@ -9,8 +9,8 @@
       "urls": [
         "https://prithivirajg.github.io/Angular-Service-Worker/favicon.ico",
         "https://prithivirajg.github.io/Angular-Service-Worker/index.html",
-        "https://prithivirajg.github.io/Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js",
-        "https://prithivirajg.github.io/Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js",
+        "https://prithivirajg.github.io/Angular-Service-Worker/inline.c32360f1085167c65b3c.bundle.js",
+        "https://prithivirajg.github.io/Angular-Service-Worker/main.1d92d6057e53107d008b.bundle.js",
         "https://prithivirajg.github.io/Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js",
         "https://prithivirajg.github.io/Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://prithivirajg.github.io/Angular-Service-Worker/inline.99d03be633a72e83c766.bundle.js": "c298038b46e48392ac051cbedd51aa54bec42b56",
-    "https://prithivirajg.github.io/Angular-Service-Worker/main.5898d564ea81b4ac123c.bundle.js": "3e791f544c72c261aabdffabdb03d0c7f36bd4cf",
+    "https://prithivirajg.github.io/Angular-Service-Worker/inline.c32360f1085167c65b3c.bundle.js": "ad7c6a88db3b432c06846ef275fba7abb4c78b76",
+    "https://prithivirajg.github.io/Angular-Service-Worker/main.1d92d6057e53107d008b.bundle.js": "f1ae2070fb84aaf466e3e9b38651c01d803ea469",
     "https://prithivirajg.github.io/Angular-Service-Worker/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "https://prithivirajg.github.io/Angular-Service-Worker/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
     "https://prithivirajg.github.io/Angular-Service-Worker/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://prithivirajg.github.io/Angular-Service-Worker/index.html": "36d7c87cfbf21b7981201c14fb8edb30111620c4"
+    "https://prithivirajg.github.io/Angular-Service-Worker/index.html": "e4c5d66e945f468354c600d321a854caabb4d6db"
   }
 }
